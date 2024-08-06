@@ -15,7 +15,7 @@ namespace BLL_DAL
             using (WebsiteBanQuanAoDataContext ql = new WebsiteBanQuanAoDataContext())
             {
                 string email = (from e in ql.Users where e.email == _email select e.email).FirstOrDefault();
-                if(email != null)
+                if (email != null)
                 {
                     return true;
                 }

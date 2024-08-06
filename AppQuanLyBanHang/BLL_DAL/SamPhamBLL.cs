@@ -373,19 +373,7 @@ namespace BLL_DAL
         public bool Update_Product(int _p, string ten, double gia, int brand)
         {
 
-            try
-            {
-                Product productz = ql.Products.Where(s => s.product_id == _p).Single();
-                productz.product_name = ten;
-                productz.price = gia;
-                productz.brand_id = brand;
-                ql.SubmitChanges();
-                return true;
-            }
-            catch (Exception ex)
-            {
-                return false;
-            }
+            
 
         }
 
