@@ -45,18 +45,7 @@ namespace BLL_DAL
 
         public bool Add_Bunker(Bunker _b)
         {
-            try
-            {
-                List<KhoDTO> dsk = Load_Kho();
-                _b.bunker_id = dsk.Count()+1;
-                ql.Bunkers.InsertOnSubmit(_b);
-                ql.SubmitChanges();
-                return true;
-            }
-            catch (Exception ex)
-            {
-                return false;
-            }
+            
 
         }
 
