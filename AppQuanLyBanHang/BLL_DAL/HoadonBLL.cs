@@ -11,6 +11,9 @@ namespace BLL_DAL
         WebsiteBanQuanAoDataContext ql = new WebsiteBanQuanAoDataContext();
         public HoadonBLL() { }
 
-        
+        public List<Order> load_Order()
+        {
+            return ql.Orders.Select(o => o).ToList();
+        }
     }
 }
