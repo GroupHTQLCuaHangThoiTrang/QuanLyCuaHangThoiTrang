@@ -36,12 +36,7 @@ namespace BLL_DAL
             return id;
         }
 
-        public string Get_NameProduct_ByProductId(int? _product_id)
-        {
-            string ten = (from b in ql.Products where b.product_id == _product_id select b.product_name).FirstOrDefault();
-
-            return ten;
-        }
+       
 
         public bool Add_Bunker(Bunker _b)
         {
