@@ -25,16 +25,28 @@ namespace BLL_DAL
 
         public bool CheckCorrect_Password(string _email, string _pass)
         {
-            using (WebsiteBanQuanAoDataContext ql = new WebsiteBanQuanAoDataContext())
+            try
             {
-                string pass = (from e in ql.Users where (e.email == _email && e.password == _pass) select e.password).FirstOrDefault();
-                if (pass != null)
+                using (WebsiteBanQuanAoDataContext ql = new WebsiteBanQuanAoDataContext())
                 {
-                    return true;
+                    // Lấy mật khẩu từ cơ sở dữ liệu dựa trên email và mật khẩu đầu vào
+                    string pass = (from e in ql.Users
+                                   where e.email == _email && e.password == _pass
+                                   select e.password).FirstOrDefault();
+
+                    // Kiểm tra mật khẩu có tồn tại hay không
+                    return pass != null;
                 }
+            }
+            catch (Exception ex)
+            {
+                // Xử lý lỗi nếu có ngoại lệ xảy ra
+                Console.WriteLine("Đã xảy ra lỗi khi kiểm tra mật khẩu.");
+                Console.WriteLine(ex.Message);
                 return false;
             }
         }
+
 
         public bool isAdmin(string _email)
         {
