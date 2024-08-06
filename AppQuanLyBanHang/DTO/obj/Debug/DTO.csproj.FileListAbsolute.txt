@@ -1,0 +1,15 @@
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\DTO\bin\Debug\DTO.dll
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\DTO\bin\Debug\DTO.pdb
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\DTO\obj\Debug\DTO.dll
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\DTO\obj\Debug\DTO.pdb
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\DTO\bin\Debug\DTO.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\DTO\bin\Debug\DTO.pdb
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\DTO\obj\Debug\DTO.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\DTO\obj\Debug\DTO.pdb
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\DTO\bin\Debug\DTO.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\DTO\bin\Debug\DTO.pdb
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\DTO\obj\Debug\DTO.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\DTO\obj\Debug\DTO.pdb

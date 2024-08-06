@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 10.875" name="WebsiteBanQuanAo">
+  <DataContextMoniker Name="/WebsiteBanQuanAoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="da8e0060-daa7-42d3-b719-a8683b472a64" absoluteBounds="0.75, 0.75, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/WebsiteBanQuanAoDataContext/Brand" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c465c0ab-ea56-41a4-937c-b91eb4a4338e" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="cc656380-e1be-49a2-be5e-77b7fcae6a9c" absoluteBounds="3.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/WebsiteBanQuanAoDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="93645354-b05f-4e7f-8416-d5b2b698053e" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d653e980-4e52-49ba-97bc-84bdbc947cbe" absoluteBounds="3.75, 3.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/WebsiteBanQuanAoDataContext/Category" />
+      <nestedChildShapes>
+        <elementListCompartment Id="57f97b76-e85a-49b1-8531-895129593bb1" absoluteBounds="3.765, 4.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="80243c3b-b8cf-4cc4-b57a-bde064bd021c" absoluteBounds="6.75, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/WebsiteBanQuanAoDataContext/Order" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8b509dae-6175-4d3a-b987-41c1f626bf00" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="53092650-037b-45fa-93bd-8ecea67f02e8" absoluteBounds="0.75, 6.75, 2, 3.8862125651041666">
+      <DataClassMoniker Name="/WebsiteBanQuanAoDataContext/Product" />
+      <nestedChildShapes>
+        <elementListCompartment Id="924d7074-a740-4239-a355-b0508cf56c1c" absoluteBounds="0.765, 7.21, 1.9700000000000002, 3.3262125651041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9e02b286-7ee1-4cea-b2d5-3b2b9b25868d" absoluteBounds="7, 4.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/WebsiteBanQuanAoDataContext/Bunker" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c522f017-85d4-498e-bc25-4a8c1a1637ab" absoluteBounds="7.015, 4.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

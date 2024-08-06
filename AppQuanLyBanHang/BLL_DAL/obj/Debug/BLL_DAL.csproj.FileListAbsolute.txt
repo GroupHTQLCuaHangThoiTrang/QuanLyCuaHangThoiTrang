@@ -1,0 +1,40 @@
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\BLL_DAL\bin\Debug\BLL_DAL.dll
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\BLL_DAL\bin\Debug\BLL_DAL.pdb
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.dll
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.pdb
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\BLL_DAL\bin\Debug\DTO.dll
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\BLL_DAL\bin\Debug\DTO.pdb
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.csproj.CopyComplete
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.dll
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\BLL_DAL\bin\Debug\MiniExcel.dll
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\BLL_DAL\bin\Debug\MiniWord.dll
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\bin\Debug\DTO.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\bin\Debug\MiniExcel.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\bin\Debug\MiniWord.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\bin\Debug\DTO.pdb
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.csproj.CopyComplete
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.pdb
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\bin\Debug\DTO.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\bin\Debug\MiniExcel.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\bin\Debug\MiniWord.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\bin\Debug\DTO.pdb
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.csproj.CopyComplete
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.pdb

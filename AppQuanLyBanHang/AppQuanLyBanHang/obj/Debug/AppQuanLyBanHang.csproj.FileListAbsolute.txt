@@ -1,0 +1,36 @@
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.csproj.AssemblyReference.cache
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmDangKy.resources
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmDangNhap.resources
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmQuenMatKhau.resources
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.csproj.GenerateResource.cache
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmDongHo.resources
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmGiay.resources
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmMain.resources
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmSanPhamAo.resources
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmSanPhamQuan.resources
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmTuiXach.resources
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.Properties.Resources.resources
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.csproj.CoreCompileInputs.cache
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe.config
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.pdb
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.exe
+D:\HuynhHuuDuc_2001207422\UngDungBanHang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.pdb
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe.config
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.pdb
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmDangKy.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmDangNhap.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmDongHo.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmGiay.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmMain.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmQuenMatKhau.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmSanPhamAo.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmSanPhamQuan.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmTuiXach.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.Properties.Resources.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.exe
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.pdb

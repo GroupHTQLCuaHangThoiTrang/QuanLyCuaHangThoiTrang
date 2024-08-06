@@ -1,0 +1,112 @@
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe.config
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.pdb
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\BLL_DAL.dll
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\BLL_DAL.pdb
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\BLL_DAL.dll.config
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmAddProduct.resources
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmDangNhap.resources
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmMain.resources
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmQuenMatKhau.resources
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.Properties.Resources.resources
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.CopyComplete
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.exe
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.pdb
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DTO.dll
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DTO.pdb
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmHoaDon.resources
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmNhanvien.resources
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmSanPham.resources
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmKho.resources
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DocumentFormat.OpenXml.dll
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\MiniWord.dll
+D:\HuynhHuuDuc_2001207422\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmAddProduct.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmDangNhap.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmHoaDon.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmKho.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmMain.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmNhanvien.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmQuenMatKhau.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmSanPham.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.Properties.Resources.resources
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe.config
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.pdb
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\Aspose.Words.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\BLL_DAL.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DTO.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\MiniWord.dll
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\Aspose.Words.xml
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\BLL_DAL.pdb
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\BLL_DAL.dll.config
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DTO.pdb
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.exe
+C:\Users\Asus\Documents\HOCTAP\Phat trien phan mem\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.pdb
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmAddProduct.resources
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmDangNhap.resources
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmHoaDon.resources
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmKho.resources
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmMain.resources
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmNhanvien.resources
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmQuenMatKhau.resources
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmSanPham.resources
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe.config
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.pdb
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\Aspose.Words.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\BLL_DAL.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DTO.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\MiniWord.dll
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\Aspose.Words.xml
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\BLL_DAL.pdb
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\BLL_DAL.dll.config
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DTO.pdb
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.Properties.Resources.resources
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.exe
+C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.pdb
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe.config
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.exe
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\AppQuanLyBanHang.pdb
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\Aspose.Words.dll
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\Aspose.Words.Pdf2Word.dll
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\BLL_DAL.dll
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DTO.dll
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\MiniWord.dll
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\Aspose.Words.xml
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\BLL_DAL.pdb
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\BLL_DAL.dll.config
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\bin\Debug\DTO.pdb
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmAddProduct.resources
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmDangNhap.resources
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmHoaDon.resources
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmKho.resources
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmMain.resources
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmNhanvien.resources
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmQuenMatKhau.resources
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.frmSanPham.resources
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.Properties.Resources.resources
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.exe
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\AppQuanLyBanHang\AppQuanLyBanHang\obj\Debug\AppQuanLyBanHang.pdb
