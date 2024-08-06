@@ -352,7 +352,7 @@ namespace BLL_DAL
             }
 
         }
-
+        //xóa sản phẩm
         public bool Delete_Product(int _p)
         {
 
@@ -369,7 +369,6 @@ namespace BLL_DAL
             }
 
         }
-
         public bool Update_Product(int _p, string ten, double gia, int brand)
         {
 
