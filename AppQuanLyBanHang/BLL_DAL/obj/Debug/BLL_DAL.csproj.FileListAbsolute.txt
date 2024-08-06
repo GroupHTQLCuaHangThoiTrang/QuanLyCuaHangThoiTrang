@@ -38,3 +38,17 @@ C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyB
 C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.csproj.CopyComplete
 C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.dll
 C:\Users\ASUS PC\Desktop\QuanLyShopThoiTrang\QuanLyShopThoiTrang\Code\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.pdb
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\bin\Debug\BLL_DAL.dll.config
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\bin\Debug\BLL_DAL.dll
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\bin\Debug\BLL_DAL.pdb
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\bin\Debug\DTO.dll
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\bin\Debug\MiniExcel.dll
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\bin\Debug\MiniWord.dll
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\bin\Debug\DTO.pdb
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.csproj.CopyComplete
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.dll
+C:\Users\ASUS PC\Desktop\HTQLCuaHangThoiTrang\QuanLyCuaHangThoiTrang\AppQuanLyBanHang\BLL_DAL\obj\Debug\BLL_DAL.pdb
