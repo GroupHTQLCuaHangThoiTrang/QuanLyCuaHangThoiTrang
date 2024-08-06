@@ -199,16 +199,43 @@ namespace BLL_DAL
         {
             try
             {
-                Brand br = ql.Brands.Where(s => s.brand_id== pBrand_id).Single();
-                ql.Brands.DeleteOnSubmit(br);
-                ql.SubmitChanges();
-                return true;
+                // Tạo context mới cho cơ sở dữ liệu
+                using (WebsiteBanQuanAoDataContext ql = new WebsiteBanQuanAoDataContext())
+                {
+                    // Tìm thương hiệu theo ID
+                    Brand br = ql.Brands.SingleOrDefault(s => s.brand_id == pBrand_id);
+
+                    // Kiểm tra nếu thương hiệu không tồn tại
+                    if (br == null)
+                    {
+                        Console.WriteLine("Thương hiệu không tồn tại.");
+                        return false;
+                    }
+
+                    // Xóa thương hiệu
+                    ql.Brands.DeleteOnSubmit(br);
+                    ql.SubmitChanges();
+
+                    // Trả về true nếu xóa thành công
+                    return true;
+                }
+            }
+            catch (InvalidOperationException ex)
+            {
+                // Xử lý trường hợp có nhiều hơn một thương hiệu có cùng ID
+                Console.WriteLine("Lỗi: Có nhiều hơn một thương hiệu có cùng ID.");
+                Console.WriteLine(ex.Message);
+                return false;
             }
             catch (Exception ex)
             {
+                // Xử lý các lỗi khác
+                Console.WriteLine("Đã xảy ra lỗi khi xóa thương hiệu.");
+                Console.WriteLine(ex.Message);
                 return false;
             }
         }
+
 
         public bool Update_Brand(Brand pBrand)
         {
@@ -330,7 +357,7 @@ namespace BLL_DAL
 
             if (Check_ProductName(_p.product_name))
             {
-                //Trùng tên sản phẩm
+             
                 return false;
             }
             else
