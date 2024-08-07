@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WebsiteBanQuanAoModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Brand">
+    <Key>
+      <PropertyRef Name="brand_id" />
+    </Key>
+    <Property Name="brand_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="brand_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="avatar" Type="nvarchar" MaxLength="50" />
+    <Property Name="show_on_home_page" Type="bit" />
+    <Property Name="display_order" Type="int" />
+    <Property Name="created" Type="datetime" />
+    <Property Name="updated" Type="datetime" />
+    <Property Name="deleted" Type="bit" />
+  </EntityType>
+  <EntityType Name="Bunker">
+    <Key>
+      <PropertyRef Name="bunker_id" />
+    </Key>
+    <Property Name="bunker_id" Type="int" Nullable="false" />
+    <Property Name="product_id" Type="int" />
+    <Property Name="price" Type="float" />
+    <Property Name="soluong" Type="int" />
+    <Property Name="created" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Category">
+    <Key>
+      <PropertyRef Name="category_id" />
+    </Key>
+    <Property Name="category_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="category_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="avatar" Type="nvarchar" MaxLength="50" />
+    <Property Name="show_on_home_page" Type="bit" />
+    <Property Name="deleted" Type="bit" />
+    <Property Name="created" Type="datetime" />
+    <Property Name="updated" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="order_id" />
+    </Key>
+    <Property Name="order_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="user_id" Type="int" />
+    <Property Name="order_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="product_id" Type="int" />
+    <Property Name="price" Type="float" />
+    <Property Name="status" Type="int" />
+    <Property Name="created" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Product">
+    <Key>
+      <PropertyRef Name="product_id" />
+    </Key>
+    <Property Name="product_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="product_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="brand_id" Type="int" />
+    <Property Name="category_id" Type="int" />
+    <Property Name="short_des" Type="nvarchar" MaxLength="100" />
+    <Property Name="full_des" Type="nvarchar" MaxLength="100" />
+    <Property Name="price" Type="float" />
+    <Property Name="price_discount" Type="float" />
+    <Property Name="type_id" Type="int" />
+    <Property Name="deleted" Type="bit" />
+    <Property Name="show_on_home_page" Type="bit" />
+    <Property Name="display_order" Type="int" />
+    <Property Name="created" Type="datetime" />
+    <Property Name="updated" Type="datetime" />
+    <Property Name="avatar" Type="nvarchar" MaxLength="50" />
+    <Property Name="soluong" Type="int" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="user_id" />
+    </Key>
+    <Property Name="user_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="user_first_name" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="user_last_name" Type="nvarchar" MaxLength="50" />
+    <Property Name="email" Type="varchar" MaxLength="100" Nullable="false" />
+    <Property Name="password" Type="varchar" MaxLength="50" />
+    <Property Name="is_admin" Type="bit" />
+  </EntityType>
+  <EntityContainer Name="WebsiteBanQuanAoModelStoreContainer">
+    <EntitySet Name="Brand" EntityType="Self.Brand" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Bunker" EntityType="Self.Bunker" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Category" EntityType="Self.Category" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Orders" EntityType="Self.Orders" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product" EntityType="Self.Product" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

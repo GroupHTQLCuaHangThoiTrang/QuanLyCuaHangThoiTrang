@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|e:\\hoangphat\\new folder\\quanlyshopthoitrang\\quanlyshopthoitrang\\code\\websitequanao1\\websitequanao\\websitequanao\\websitebanhang\\websitebanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\websitebanhang\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\websitebanhang\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\websitebanhang\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\websitebanhang\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\websitebanhang\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\websitebanhang\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\websitebanhang\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\websitebanhang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\websitebanhang\\context\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\context\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\websitebanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3D9B2CCF-10B0-47D8-8D6B-95F3E319C86F}|WebsiteBanHang\\WebsiteBanHang.csproj|solutionrelative:websitebanhang\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T10:03:53.842Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T11:48:23.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T10:55:56.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "WebsiteBanHang\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAEwFYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-07T10:39:43.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:38:51.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Controllers\\PaymentController.cs",
+              "ToolTip": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Controllers\\PaymentController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAiwB0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:40:11.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Models\\CartModel.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Models\\CartModel.cs",
+              "ToolTip": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Models\\CartModel.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Models\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:38:42.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Controllers\\CartController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:39:02.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebsiteBanHang\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAcwF4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T10:29:06.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Context\\Model1.edmx",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Context\\Model1.edmx",
+              "ToolTip": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Context\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "WebsiteBanHang\\Context\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-08-07T10:35:10.389Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Web.config",
+              "RelativeDocumentMoniker": "WebsiteBanHang\\Web.config",
+              "ToolTip": "E:\\HoangPhat\\New folder\\QuanLyShopThoiTrang\\QuanLyShopThoiTrang\\Code\\WebSiteQuanAo1\\WebSiteQuanAo\\WebSiteQuanAo\\WebsiteBanHang\\WebsiteBanHang\\Web.config",
+              "RelativeToolTip": "WebsiteBanHang\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-07T10:28:39.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

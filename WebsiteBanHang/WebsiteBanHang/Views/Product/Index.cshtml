@@ -1,0 +1,120 @@
+﻿@model IEnumerable<WebsiteBanHang.Context.Product>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+    <table class="table" style="text-align: center; border: 1px solid #000000; width: 100%;">
+        <tr >
+            <th>
+                @Html.DisplayNameFor(model => model.product_name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.avatar)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.category_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.short_des)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.full_des)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.price_discount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.type_id)
+            </th>
+         
+            <th>
+                @Html.DisplayNameFor(model => model.brand_id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.deleted)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.show_on_home_page)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.display_order)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.created)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.updated)
+            </th>
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.product_name)
+            </td>
+            <td>
+                <img class="img-sm float-right w-100" src="~/Content/images/items/@item.avatar">
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.category_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.short_des)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.full_des)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price_discount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.type_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.brand_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.deleted)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.show_on_home_page)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.display_order)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.created)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.updated)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.product_id }) |
+                @Html.ActionLink("Detail", "Detail", new { id = item.product_id }) |
+                <a href="#" onclick="if (confirm('Bạn có chắc chắn muốn xóa không?') == true) { location.href = '/Product/Delete?id=@item.product_id' }">Delete</a>
+            </td>
+        </tr>
+    }
+    
+    </table>
+</body>
+</html>

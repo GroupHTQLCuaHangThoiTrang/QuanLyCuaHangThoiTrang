@@ -1,0 +1,212 @@
+﻿@model WebsiteBanHang.Context.Product
+@{
+    ViewBag.Title = "Detail";
+}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $("#addtocart").click(function ()
+        { 
+            var model = {};
+            //lay id san pham
+            model.Id = @Model.product_id;
+            //lay so luong dat hang
+            model.Quantity = $("#ipQuantity").val();
+            debugger;
+            $.ajax({
+                type: "POST",   
+                url: '@Url.Action("AddToCart","Cart")',
+                data: JSON.stringify(model),
+                dataType: "json",
+                contentType: "application/json; charset=utf - 8",
+                success: function () {
+                    alert("Them vao gio hang thanh cong")
+                    $('#CartCount').text(@Session["count"]+1);
+
+                },
+                error: function () {
+                    alert("Loi trong khi them vao vo hang");
+                }
+            });
+            return false;
+
+            });
+        });
+</script>
+
+
+
+<section class="py-3 bg-light">
+    <div class="container">
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="~/home">Trang chu</a></li>
+            <li class="breadcrumb-item"><a href="#">Chi tiết sản phẩm</a></li>
+            <li class="breadcrumb-item active" aria-current="page">@Model.product_name</li>
+        </ol>
+    </div>
+</section>
+<script>
+    let __protocol = document.location.protocol;
+    let __baseUrl = __protocol + '//livechat.fpt.ai/v35/src';
+
+    let prefixNameLiveChat = 'chatbot đặt hàng';
+    let objPreDefineLiveChat = {
+        appCode: '78b4b0b96cbd0b5a5b15a3d512bfc155',
+        themes: '',
+        appName: prefixNameLiveChat ? prefixNameLiveChat : 'Live support',
+        thumb: '',
+        icon_bot: ''
+    },
+        appCodeHash = window.location.hash.substr(1);
+    if (appCodeHash.length == 32) {
+        objPreDefineLiveChat.appCode = appCodeHash;
+    }
+
+    let fpt_ai_livechat_script = document.createElement('script');
+    fpt_ai_livechat_script.id = 'fpt_ai_livechat_script';
+    fpt_ai_livechat_script.src = __baseUrl + '/static/fptai-livechat.js';
+    document.body.appendChild(fpt_ai_livechat_script);
+
+    let fpt_ai_livechat_stylesheet = document.createElement('link');
+    fpt_ai_livechat_stylesheet.id = 'fpt_ai_livechat_script';
+    fpt_ai_livechat_stylesheet.rel = 'stylesheet';
+    fpt_ai_livechat_stylesheet.href = __baseUrl + '/static/fptai-livechat.css';
+    document.body.appendChild(fpt_ai_livechat_stylesheet);
+
+    fpt_ai_livechat_script.onload = function () {
+        fpt_ai_render_chatbox(objPreDefineLiveChat, __baseUrl, 'livechat.fpt.ai:443');
+    }
+</script>
+<!-- ========================= SECTION CONTENT ========================= -->
+<section class="section-content bg-white padding-y">
+    <div class="container">
+
+        <!-- ============================ ITEM DETAIL ======================== -->
+        <div class="row">
+            <aside class="col-md-6">
+                <div class="card">
+                    <article class="gallery-wrap">
+                        <div class="img-big-wrap">
+                            <div> <a href="#"><img src="~/Content/images/items/@Model.avatar"></a></div>
+                        </div> <!-- slider-product.// -->
+                        <div class="thumbs-wrap">
+                            <a href="#" class="item-thumb"><img src="~/Content/images/items/@Model.avatar"></a>
+                            <a href="#" class="item-thumb"><img src="~/Content/images/items/@Model.avatar"></a>
+                            <a href="#" class="item-thumb"><img src="~/Content/images/items/@Model.avatar"></a>
+
+                        </div>
+                    </article> <!-- gallery-wrap .end// -->
+                </div> <!-- card.// -->
+            </aside>
+            <main class="col-md-6">
+                <article class="product-info-aside">
+
+                    <h2 class="title mt-3">@Model.product_name </h2>
+
+                    <div class="rating-wrap my-3">
+                        <ul class="rating-stars">
+                            <li style="width:80%" class="stars-active">
+                                <i class="fa fa-star"></i> <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i> <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </li>
+                            <li>
+                                <i class="fa fa-star"></i> <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i> <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                            </li>
+                        </ul>
+                        <small class="label-rating text-muted">132 reviews</small>
+                        <small class="label-rating text-success"> <i class="fa fa-clipboard-check"></i> 154 orders </small>
+                    </div> <!-- rating-wrap.// -->
+
+                    <div class="mb-3">
+                        <var class="price h4">@Model.price VND</var>
+
+                    </div> <!-- price-detail-wrap .// -->
+
+                    <p>
+                        @Model.short_des
+                    </p>
+
+
+                    <dl class="row">
+                        <dt class="col-sm-3">Guarantee</dt>
+                        <dd class="col-sm-9">2 year</dd>
+
+                        <dt class="col-sm-3">Thời Gian Vận Chuyển</dt>
+                        <dd class="col-sm-9">3-4 days</dd>
+
+                        <dt class="col-sm-3">Tình Trạng</dt>
+                        <dd class="col-sm-9">Còn Hàng</dd>
+                        <dt class="col-sm-3">Số lượng</dt>
+                        <dd class="col-sm-9">@Model.soluong</dd>
+
+                    </dl>
+
+                    <div class="form-row  mt-4">
+                        <div class="form-group col-md flex-grow-0">
+                            <div class="input-group mb-3 input-spinner">
+                                 <input type="text" id="ipQuantity" class="form-control" value="1">  
+                            </div>
+                        </div> <!-- col.// -->
+                        <div class="form-group col-md">
+                            <a href="#" id="addtocart" class="btn btn-primary">
+                                <i class="fas fa-shopping-cart"></i>
+                                <span class="text">Them vao gio hang</span>
+                            </a>
+                        
+                        </div> <!-- col.// -->
+                    </div> <!-- row.// -->
+
+                </article> <!-- product-info-aside .// -->
+            </main> <!-- col.// -->
+        </div> <!-- row.// -->
+        <!-- ================ ITEM DETAIL END .// ================= -->
+
+
+    </div> <!-- container .//  -->
+</section>
+<!-- ========================= SECTION CONTENT END// ========================= -->
+<!-- ========================= SECTION  ========================= -->
+<section class="section-name padding-y bg">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-md-8">
+                <h5 class="title-description">Description</h5>
+                @Model.full_des
+
+            </div> <!-- col.// -->
+
+           
+        </div> <!-- row.// -->
+
+    </div> <!-- container .//  -->
+</section>
+<!-- ========================= SECTION CONTENT END// ========================= -->
+<!-- ========================= SECTION SUBSCRIBE  ========================= -->
+<section class="padding-y-lg bg-light border-top">
+    <div class="container">
+
+        <p class="pb-2 text-center">Delivering the latest product trends and industry news straight to your inbox</p>
+
+        <div class="row justify-content-md-center">
+            <div class="col-lg-4 col-sm-6">
+                <form class="form-row">
+                    <div class="col-8">
+                        <input class="form-control" placeholder="Your Email" type="email">
+                    </div> <!-- col.// -->
+                    <div class="col-4">
+                        <button type="submit" class="btn btn-block btn-warning"> <i class="fa fa-envelope"></i> Subscribe </button>
+                    </div> <!-- col.// -->
+                </form>
+                <small class="form-text">We’ll never share your email address with a third-party. </small>
+            </div> <!-- col-md-6.// -->
+        </div>
+
+
+    </div>
+</section>
+<!-- ========================= SECTION SUBSCRIBE END// ========================= -->

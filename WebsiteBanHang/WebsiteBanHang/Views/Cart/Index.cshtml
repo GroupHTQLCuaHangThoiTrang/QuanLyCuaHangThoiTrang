@@ -1,0 +1,108 @@
+﻿@model IEnumerable<WebsiteBanHang.Models.CartModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script type="text/javascript">
+    $(function () {
+        $("#removecart").click(function ()
+        {
+            var model = {};
+            //lay id san pham
+            model.Id = $("#productid").val();
+            $.ajax({
+                type: "POST",
+                url: '@Url.Action("Remove", "Cart")',
+                data: JSON.stringify(model),
+                dataType: "json",
+                contentType: "application/json; charset=utf - 8",
+                success: function () {
+                    $('#CartCount').text(@Session["count"] -1);
+                    $("#product-" + model.Id).remove();
+                },
+                error: function () {
+                    alert("Loi trong khi them vao vo hang");
+                }
+            });
+            return false;
+
+            });
+        });
+</script>
+<section class="section-content padding-y">
+    <div class="container">
+
+        <div class="row">
+            <main class="col-md-9">
+                <div class="card">
+                    <table class="table table-borderless table-shopping-cart">
+                        <thead class="text-muted">
+                            <tr class="small text-uppercase">
+                                <th scope="col">Product</th>
+                                <th scope="col" width="120">Quantity</th>
+                                <th scope="col" width="120">Price</th>
+                                <th scope="col" class="text-right" width="200"></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model!=null)
+                            {
+                                foreach (var item in Model)
+                                {
+                                    <tr id="product-@item.Product.product_id">
+                                        <td>
+                                            <figure class="itemside">
+                                                <div class="aside"><img src="~/Content/images/items/@item.Product.avatar" class="img-sm"></div>
+                                                <figcaption class="info">
+                                                    <a href="#" class="title text-dark">@item.Product.product_name</a>
+
+                                                </figcaption>
+                                            </figure>
+                                        </td>
+                                        <td>
+                                            <input type="text" value="@item.Quantity" />
+
+                                        </td>
+                                        <td>
+                                            <div class="price-wrap">
+                                                
+                                                <input  class="price" type="number" value="@item.Product.price"/>
+                                            </div> <!-- price-wrap .// -->
+                                        </td>
+                                        <td class="text-right">
+                                            <input type="hidden" value="@item.Product.product_id" id="productid"/>
+                                            <a data-original-title="Save to Wishlist" title="" href="" class="btn btn-light" data-toggle="tooltip"> <i class="fa fa-heart"></i></a>
+                                            
+                                               
+                                            <a href="#" class="btn btn-light" id="removecart"> Remove</a>
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                            else {
+                                <p>Khong co san pham trong gio hang</p>
+                            
+                            }
+
+
+
+                        </tbody>
+                    </table>
+
+                    <div class="card-body border-top">
+
+                        <a href="@Url.Action("Index","Payment")" class="btn btn-primary float-md-right"> Thanh Toán <i class="fa fa-chevron-right"></i> </a>
+                        <a href="@Url.Action("Index","Home")" class="btn btn-light"> <i class="fa fa-chevron-left"></i> Continue shopping </a>
+                    </div>
+                </div> <!-- card.// -->
+
+            
+
+            </main> <!-- col.// -->
+           
+        </div>
+
+    </div> <!-- container .//  -->
+</section>
