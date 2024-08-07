@@ -1,6 +1,6 @@
 2001200074_Nguyễn Hoàng Phát 
 2001207111_Trần Thanh Nhạc 
-
+2001207007-Nguyễn Việt Hoàng
 Xây Dựng Hệ Thống Quản Lý Cửa Hàng Thời Trang
 1 Mục tiêu đề tài 
 •	Xây dựng chương trình dễ sử dụng, thuận tiện cho người sử dụng.
