@@ -28,17 +28,7 @@ namespace AppQuanLyBanHang
             }
             else
             {
-                //string query = "Select * from Users Where Email='" + email + "'";
-                //if (modify.Userss(query).Count != 0)
-                //{
-                //    label2.ForeColor = Color.Blue;
-                //    label2.Text = "Mat Khau: " + modify.Userss(query)[0].MatKhau;
-                //}
-                //else
-                //{
-                //    label2.ForeColor = Color.Red;
-                //    label2.Text = "Email này đã đươc đăng ký";
-                //}
+                
             }
         }
     }
