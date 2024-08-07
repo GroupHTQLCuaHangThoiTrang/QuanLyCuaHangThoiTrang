@@ -28,12 +28,12 @@ namespace AppQuanLyBanHang
         {
             if (txtFirstname.Text.Trim() == "")
             {
-                MessageBox.Show("Vui lòng nhập First name");
+                MessageBox.Show("Vui long nhap Fisrt name");
                 return;
             }
             else if (txtEmail.Text.Trim() == "")
             {
-                MessageBox.Show("Vui lòng nhập Email");
+                MessageBox.Show("Vui long nhap Email");
                 return;
             }
             else
@@ -45,33 +45,31 @@ namespace AppQuanLyBanHang
                     newuser.user_last_name = txtLastname.Text;
                     newuser.email = txtEmail.Text;
                     newuser.password = txtPassword.Text;
-
-                    if (rdo_Admin.Checked)
+                    if(rdo_Admin.Checked)
                     {
                         newuser.is_admin = true;
                     }
-                    else if (rdo_Nhanvien.Checked)
+                    if(rdo_Nhanvien.Checked)
                     {
                         newuser.is_admin = false;
                     }
-
-                    if (userbll.Add_User(newuser))
+                    if(userbll.Add_User(newuser))
                     {
                         MessageBox.Show("Thêm thành công!");
                         dtgvNhanvien.DataSource = userbll.Load_User();
-                    }
+                    }    
                     else
                     {
                         MessageBox.Show("Thêm thất bại!");
-                    }
+                    }    
                 }
-                catch (Exception ex)
+                catch
                 {
-                    MessageBox.Show($"Thêm thất bại! Lỗi: {ex.Message}");
+                    MessageBox.Show("Thêm thất bại!");
                 }
-            }
+            } 
+                
         }
-
 
         private void btn_Xoa_Click(object sender, EventArgs e)
         {
